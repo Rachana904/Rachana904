@@ -23,11 +23,3 @@ A collection of the tools and technologies I'm proficient in.
 | **Cloud & Deployment** | <img src="https://img.shields.io/badge/Oracle%20Cloud%20(OCI)-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/Google%20Cloud%20(GCP)-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> |
 
 
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rachana904&show_icons=true&theme=radical&rank_icon=github" alt="Rachana's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachana904&layout=compact&theme=radical" alt="Rachana's Top Languages" />
-</p>
-<!--
-**Rachana904/Rachana904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
